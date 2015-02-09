@@ -1,2 +1,4 @@
 # hello-world
-Basic Test Repository
+Basic Silly Test Repository
+
+REP file for testing and confirming setup.
